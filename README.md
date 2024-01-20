@@ -1,20 +1,19 @@
-# Portfolio
-Siddhant Shatapathy - Data Science Portfolio
-Welcome to My Professional Data Exploration
-Greetings! I am Siddhant Shatapathy, a dedicated Data Science enthusiast currently pursuing a Master's degree. This portfolio reflects my commitment to leveraging data for meaningful insights. Let's dive into the professional journey so far.
+# Data Science Aspirant
+Greetings! I am Siddhant Shatapathy, a dedicated Data Science enthusiast currently pursuing a Master's degree in Data Science.  My journey involves exploring the world of data, aiming to uncover insights and contribute to the exciting field of data-driven solutions. This portfolio serves as a detailed map of my academic journey, technical capabilities, noteworthy projects, and key roles in positions of responsibility. Let's dive into the professional journey so far.
 
-🌐 Education
-Master of Technology in Data Science
+# 🌐 Education
 
+### Master of Technology in Data Science
 Indian Institute of Technology, Palakkad
 Expected Graduation: May 2023
 Current GPA: 8.67/10
-Bachelor of Technology in Electrical Engineering
 
+### Bachelor of Technology in Electrical Engineering
 National Institute of Technology, Rourkela
 Graduated: May 2021
 GPA: 8.5/10
-💻 Skills
+
+# 💻 Skills
 Programming Languages: Python, SQL
 Frameworks: NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV, NLTK, TensorFlow, Pytorch
 Machine Learning: Supervised, Unsupervised, Feature Engineering, Statistical Analysis
