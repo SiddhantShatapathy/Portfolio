@@ -5,13 +5,13 @@ Greetings! I am Siddhant Shatapathy, a dedicated Data Science enthusiast current
 
 ### Master of Technology in Data Science
 Indian Institute of Technology, Palakkad
-Expected Graduation: May 2023
-Current GPA: 8.67/10
+,Expected Graduation: May 2024
+,Current GPA: 8.67/10
 
 ### Bachelor of Technology in Electrical Engineering
 National Institute of Technology, Rourkela
-Graduated: May 2021
-GPA: 8.5/10
+,Graduated: May 2021
+,GPA: 8.5/10
 
 ## 💻 Skills
 - Programming Languages: Python, SQL
