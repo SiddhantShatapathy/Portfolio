@@ -57,8 +57,8 @@ Studied and implemented classification models to predict p53 protein activity ba
   Leading the Introduction to Programming course
 
 ## 🌐 Connect with Me
-Phone: +91 7855969369
-Email: siddhant10.ss@gmail.com
-LinkedIn: Siddhant Shatapathy LinkedIn
+- Phone: +91 7855969369
+- Email: siddhant10.ss@gmail.com
+- LinkedIn: Siddhant Shatapathy 
 
-Thank you for exploring my Data Science journey. I am eager to contribute my skills and knowledge to a challenging role. Looking forward to connecting with you!
+Thank you for exploring my Data Science journey. Looking forward to connecting with you!
