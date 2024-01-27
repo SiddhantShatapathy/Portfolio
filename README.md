@@ -45,20 +45,20 @@ Studied and implemented classification models to predict p53 protein activity ba
 
 ## 🎓 Positions of Responsibility
 - Placement Coordinator | IIT Palakkad (Current)
+  Coordinating placements for M.Tech in Data Science
 
-Coordinating placements for M.Tech in Data Science.
-MLG Coordinator | IIT Palakkad (Current)
+- MLG Coordinator | IIT Palakkad (Current)
+  Coordinating the Machine Learning Group at IIT Palakkad
 
-- Coordinating the Machine Learning Group at IIT Palakkad.
-Teaching Assistant | IIT Palakkad (Aug 2023 – Dec 2023)
-
-- Assisting in teaching machine learning courses.
-Lead Teaching Assistant | IIT Palakkad (Feb 2023 – May 2023)
-
-Leading the Introduction to Programming course.
+- Teaching Assistant | IIT Palakkad (Aug 2023 – Dec 2023)
+  Assisted in teaching machine learning course
+  
+- Lead Teaching Assistant | IIT Palakkad (Feb 2023 – May 2023)
+  Leading the Introduction to Programming course
 
 ## 🌐 Connect with Me
 Phone: +91 7855969369
 Email: siddhant10.ss@gmail.com
 LinkedIn: Siddhant Shatapathy LinkedIn
+
 Thank you for exploring my Data Science journey. I am eager to contribute my skills and knowledge to a challenging role. Looking forward to connecting with you!
